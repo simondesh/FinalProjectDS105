@@ -1,5 +1,5 @@
 # FinalProjectDS105
-**Team Name:** <DS105 superstars>
+**Team Name:** DS105 superstars
 
 **Team Members:**
 -   👨‍💻 Simon Deshayes
@@ -35,8 +35,8 @@ The data collection script (data_gathering.ipynb) may not produce identical resu
 ## Team Member Roles
 |                                | Simon  |  Scarlett  |  Cathy  |  Cynthia  |
 |--------------------------------|--------|------------|---------|-----------|
-|Data Collection                 |√       |------------|---------|-----------|
-|Data cleaning and <br> Wrangling|--------|√           |---------|-----------|
-|Exploratory Data Analysis       |--------|√           |---------|√          |
-|Topic Modelling                 |√       |------------|√        |-----------|
+|Data Collection                 |√       |            |         |           |
+|Data cleaning and <br> Wrangling|        |√           |         |           |
+|Exploratory Data Analysis       |        |√           |         |√          |
+|Topic Modelling                 |√       |            |√        |           |
 |Documentation                   |√       |√           |√        |√          |
