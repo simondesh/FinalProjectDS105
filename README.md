@@ -5,10 +5,10 @@
 **Team Members:**
 -   👨‍💻 Simon Deshayes
 -   🦸‍♀️ Sijia He (Scarlett)
--   👩‍💻 Shuyu Cao (Cathy)
+-   👩‍🔬 Shuyu Cao (Cathy)
 -   👸 Yinyue Wang (Cynthia)
 
-NOTE! This repository only contains our source code for data analysis process. If you wanna check our final webpage, please see this repository instead: [FinalProjectWebsite](https://github.com/simondesh/FinalProjectWebsite)
+**NOTE!** This repository only contains our source code for data analysis process. If you wanna check our final webpage, please see this repository instead: [FinalProjectWebsite](https://github.com/simondesh/FinalProjectWebsite)
 
 ## Motivation and Obejctives
 
@@ -30,7 +30,7 @@ $python3 -m venv env
 $source env/bin/activate
 (env)$pip install -r requirements.txt
 ```
-3. Run the .ipynb files in the scr folder, including `data_gathering.ipynb`, `data-cleaning-steam.ipynb`, `data-cleaning-steamspy.ipynb`, `Exploratory Data Analysis.ipynb` and `Model_creation.ipynb`
+3. Run the .ipynb files in the scr folder, including `data_gathering.ipynb`, `data-cleaning-steam.ipynb`, `data-cleaning-steamspy.ipynb`, `Exploratory Data Analysis.ipynb` and `Model-creation.ipynb`
    
 ## Issues
 The data collection script (data_gathering.ipynb) may not produce identical results to our first extraction due to variations in the data obtained from the two APIs over time.
