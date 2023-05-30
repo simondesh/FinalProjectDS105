@@ -36,10 +36,12 @@ $source env/bin/activate
 The data collection script (data_gathering.ipynb) may not produce identical results to our first extraction due to variations in the data obtained from the two APIs over time.
 
 ## Team Member Roles
-|                                | Simon  |  Scarlett  |  Cathy  |  Cynthia  |
-|--------------------------------|--------|------------|---------|-----------|
-|Data Collection                 |√       |            |         |           |
-|Data cleaning and <br> Wrangling|        |√           |         |           |
-|Exploratory Data Analysis       |        |√           |         |√          |
-|Topic Modelling                 |√       |            |√        |           |
-|Documentation                   |√       |√           |√        |√          |
+||Shuyu Cao|Simon Desh|Siji He|Cynthia Wang|
+|----|-----|----|----|---|
+|Data Collection|-|√|-|-|
+|Data Cleaning, Preprocessing and Wrangling|-|√|√|-|
+|EDA|-|-|√|√|
+|Topic Modeling|-|√|-|-|
+|Report|√|√|√|-| 
+|Web Creation|√|√|√|-| 
+|Github Maintenance|√|√|√|√| 
