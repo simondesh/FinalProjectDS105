@@ -8,7 +8,7 @@
 -   🦸‍♀️ Sijia He (Scarlett)
 -   👸 Yinyue Wang (Cynthia)
 
-**NOTE!** This repository only contains our source code for data analysis process. If you wanna check our final webpage, please see this repository instead: [FinalProjectWebsite](https://github.com/simondesh/FinalProjectWebsite)
+**NOTE!** This repository only contains our source code for data analysis process. If you wanna check our final webpage, please see this repository instead: [FinalProjectWebsite](https://github.com/simondesh/FinalProjectWebsite) or go directly to our website: [https://simondesh-finalprojectwebsite.streamlit.app/](https://simondesh-finalprojectwebsite.streamlit.app/)
 
 ## Motivation and Obejctives
 
