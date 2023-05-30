@@ -3,9 +3,9 @@
 **Team Name:** DS105 superstars
 
 **Team Members:**
+-   👩‍🔬 Shuyu Cao (Cathy)
 -   👨‍💻 Simon Deshayes
 -   🦸‍♀️ Sijia He (Scarlett)
--   👩‍🔬 Shuyu Cao (Cathy)
 -   👸 Yinyue Wang (Cynthia)
 
 **NOTE!** This repository only contains our source code for data analysis process. If you wanna check our final webpage, please see this repository instead: [FinalProjectWebsite](https://github.com/simondesh/FinalProjectWebsite)
@@ -36,10 +36,10 @@ $source env/bin/activate
 The data collection script (data_gathering.ipynb) may not produce identical results to our first extraction due to variations in the data obtained from the two APIs over time.
 
 ## Team Member Roles
-||Shuyu Cao|Simon Desh|Siji He|Cynthia Wang|
+||Cathy|Simon|Scarlett|Cynthia|
 |----|-----|----|----|---|
 |Data Collection|-|√|-|-|
-|Data Cleaning, Preprocessing and Wrangling|-|√|√|-|
+|Data Cleaning, Preprocessing <br> and Wrangling|-|√|√|-|
 |EDA|-|-|√|√|
 |Topic Modeling|-|√|-|-|
 |Report|√|√|√|√| 
